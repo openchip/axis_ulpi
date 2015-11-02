@@ -2,7 +2,8 @@ AXI4-Stream ULPI
 ================
 
 .. toctree::
-    ../ip/axis_ulpi/doc/index.rst
+
+    release_notes.rst	   
     license.rst
 
 
