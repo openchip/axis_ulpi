@@ -1,5 +1,5 @@
-Vector GPIO license information
-===============================
+AXI4-Stram ULPI license information
+===================================
 
 The MIT License (MIT)
 
