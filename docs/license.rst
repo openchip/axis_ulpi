@@ -1,5 +1,5 @@
-AXI4-Stram ULPI license information
-===================================
+AXI4-Stream ULPI license information
+====================================
 
 The MIT License (MIT)
 
